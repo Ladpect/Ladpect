@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<b>🛠️Studying🛠️<b> \n
+<b>🛠️Studying🛠️<b>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C-3776AB?style=flat-square&logo=C&logoColor=#A8B9CC"/>
 <!--
 **Ladpect/Ladpect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
