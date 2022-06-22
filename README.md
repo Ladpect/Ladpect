@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <b>🛠️Studying🛠️<b>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=#3776AB"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=#3776AB"/>
-  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Csharp&logoColor=#239120"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=#000000"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Csharp&logoColor=000000"/>
 <!--
 **Ladpect/Ladpect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
