@@ -1,9 +1,12 @@
 ### Hi there 👋
-<b1>I'm Ladpect!<b1>   
-<b>🛠️Studying🛠️<b>
+<h1>I'm Ladpect!<h1>   
+<b>🛠️Studying🛠️<b>   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Csharp&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Csharp&logoColor=ffffff"/>   
+  
+<b>🛠️Tools🛠️<b>
+  
   
  
 <!--
