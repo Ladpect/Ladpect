@@ -3,13 +3,16 @@
 <h5>🛠️Studying🛠️<h5>   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Csharp&logoColor=ffffff"/>   
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Csharp&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=ffffff"/> 
   
 <h5>🛠️Tools🛠️<h5>
-  
+  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=ffffff"/> 
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff"/> 
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=ffffff"/> 
   
  
-<!--
+<!--#181717
 **Ladpect/Ladpect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
