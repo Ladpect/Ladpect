@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b>I'm Ladpect!<b>   
+<h1>I'm Ladpect!<h1>   
 <h5>🛠️Studying🛠️<h5>   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/>
