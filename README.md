@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00B9FF&height=300&section=header&text=Hello%&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00B9FF&height=300&section=header&text=Welcome!%&fontSize=90)
 
 
 <h1>I'm Ladpect!<h1>   
