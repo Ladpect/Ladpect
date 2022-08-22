@@ -11,8 +11,11 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff"/> 
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=ffffff"/> 
   
+***
+***
+***
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ladpect&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ladpect&show_icons=true&theme=algolia)
   
  
 <!--#181717
