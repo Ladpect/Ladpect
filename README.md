@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=ffffff"/> 
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff"/> 
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=ffffff"/> 
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
   
 ***  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ladpect&show_icons=true&theme=algolia)
